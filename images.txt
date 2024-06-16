@@ -1,1 +1,2 @@
 kasmweb/nginx:1.25.3
+nacos/nacos-server:2.3.0
